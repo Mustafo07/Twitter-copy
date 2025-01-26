@@ -54,7 +54,7 @@ const SiteBar = () => {
             <strong className='text-[18px] text-[#000000]'>Mushtariy</strong>
             <p className='text-[18px] text-[#000000] opacity-[60%]'>@Mushtar565266</p>
           </div>
-          <Button extraclass={"bg-[#000000] w-[92px] py-[10px]"} title={"Follow"}/>
+          <Button extraclass={"!bg-[#000000] !w-[92px] !py-[10px]"} title={"Follow"}/>
          </div>
          <div className='flex items-center justify-between mt-[25px]'>
           <div className='w-[60px] h-[60px] rounded-full border-[1px] border-[#5C6C79]'></div>
@@ -62,7 +62,7 @@ const SiteBar = () => {
             <strong className='text-[18px] text-[#000000]'>Mushtariy</strong>
             <p className='text-[18px] text-[#000000] opacity-[60%]'>@Mushtar565266</p>
           </div>
-          <Button extraclass={"bg-[#000000] w-[92px] py-[10px]"} title={"Follow"}/>
+          <Button extraclass={"!bg-[#000000] !w-[92px] !py-[10px]"} title={"Follow"}/>
          </div>
       </div>
 
